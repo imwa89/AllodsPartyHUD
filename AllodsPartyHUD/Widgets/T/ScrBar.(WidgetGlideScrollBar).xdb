@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetGlideScrollBar>
+	<Name>ScrollBar</Name>
+	<BackLayer href="../aoui/ScrollBars/Textures/ScrollBarVertical.(WidgetLayerTiledTexture).xdb" />
+	<Placement><X><Align>WIDGET_ALIGN_HIGH</Align><Size>16</Size></X><Y><Align>WIDGET_ALIGN_BOTH</Align></Y></Placement>
+	<slider href="ScrSlider.(WidgetGlideSlider).xdb" />
+	<decButton href="ScrDec.(WidgetButton).xdb" />
+	<incButton href="ScrInc.(WidgetButton).xdb" />
+</WidgetGlideScrollBar>

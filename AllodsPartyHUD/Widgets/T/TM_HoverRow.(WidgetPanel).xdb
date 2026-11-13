@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetPanel>
+	<Name>TM_HoverRow</Name>
+	<BackLayer href="tex/LWhite.(WidgetLayerTiledTexture).xdb" />
+	<reactionOnPointing>TM_SkillHover</reactionOnPointing>
+	<Placement><X><Align>WIDGET_ALIGN_LOW</Align></X><Y><Align>WIDGET_ALIGN_LOW</Align></Y></Placement>
+</WidgetPanel>

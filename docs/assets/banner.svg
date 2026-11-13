@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">AllodsPartyHUD</title><desc id="desc">Декоративный баннер проекта. Группа, эффекты, цели.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101826"/><stop offset="1" stop-color="#1e2940"/></linearGradient><linearGradient id="hp"><stop stop-color="#FA8655"/><stop offset="1" stop-color="#F7B67B"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<path d="M810 0 660 360M1000 0 850 360M1190 0 1040 360" stroke="#30435d" stroke-width="1" opacity=".5"/>
+<rect x="58" y="58" width="6" height="244" rx="3" fill="#FA8655"/>
+<text x="88" y="90" fill="#90abc7" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="5">ALLODS ONLINE · COMMUNITY ADDON</text>
+<text x="84" y="169" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700">AllodsPartyHUD</text>
+<text x="88" y="219" fill="#d1dbe7" font-family="Segoe UI,Arial,sans-serif" font-size="24">Группа. Эффекты. Цели.</text>
+<rect x="88" y="257" width="112" height="32" rx="16" fill="#FA8655"/><text x="144" y="279" text-anchor="middle" fill="#172032" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">BUILD 1.9.20</text>
+<text x="219" y="279" fill="#90abc7" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">LUA + XDB</text>
+<g transform="translate(915 73)"><rect width="285" height="214" rx="18" fill="#0d1522" stroke="#354b66"/>
+<g fill="#26374d"><rect x="22" y="26" width="42" height="42" rx="9"/><rect x="22" y="86" width="42" height="42" rx="9"/><rect x="22" y="146" width="42" height="42" rx="9"/></g>
+<g fill="#192638"><rect x="80" y="27" width="180" height="20" rx="5"/><rect x="80" y="87" width="180" height="20" rx="5"/><rect x="80" y="147" width="180" height="20" rx="5"/></g>
+<g fill="url(#hp)"><rect x="80" y="27" width="168" height="20" rx="5"/><rect x="80" y="87" width="131" height="20" rx="5"/><rect x="80" y="147" width="155" height="20" rx="5"/></g>
+<g fill="#409BF4"><rect x="80" y="55" width="92" height="7" rx="3"/><rect x="80" y="115" width="120" height="7" rx="3"/><rect x="80" y="175" width="66" height="7" rx="3"/></g>
+<g stroke="#E7CFB3" stroke-width="3" fill="none"><path d="m33 45 10-9 10 9-10 11z"/><path d="M34 106h18m-9-9v18"/><path d="m34 168 9-12 9 12-9 8z"/></g></g>
+</svg>

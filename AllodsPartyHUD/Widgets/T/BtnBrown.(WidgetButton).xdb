@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetButton>
+	<Name>BtnBrown</Name>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<reactionOnPointing>TM_BtnHover</reactionOnPointing>
+	<TextTag>button_label</TextTag>
+	<Placement><X><Size>120</Size></X><Y><Size>28</Size></Y></Placement>
+	<Variants>
+		<Item>
+			<PushedOffset x="0" y="1" />
+			<StateNormal><LayerMain href="../kit/BtnBrown2N.(WidgetLayerTiledTexture).xdb" /><FormatFileRef href="tex/FmtBtnTan.txt" /></StateNormal>
+			<StateHighlighted><LayerMain href="../kit/BtnBrown2H.(WidgetLayerTiledTexture).xdb" /></StateHighlighted>
+			<StatePushed><LayerMain href="../kit/BtnBrown2P.(WidgetLayerTiledTexture).xdb" /></StatePushed>
+			<StateDisabled><LayerMain href="../kit/BtnBrown2P.(WidgetLayerTiledTexture).xdb" /></StateDisabled>
+			<Reaction>button_click</Reaction>
+			<ReactionRightClick>executeRightClick</ReactionRightClick>
+			<ReactionOnUp>true</ReactionOnUp>
+		</Item>
+	</Variants>
+	<TextStyle><Align>ALIGNY_MIDDLE</Align></TextStyle>
+</WidgetButton>

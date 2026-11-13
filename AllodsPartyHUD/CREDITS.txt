@@ -1,0 +1,2 @@
+Class icon resources derived from Universe by OLDodin (c) 2018, MIT License.
+See UNIVERSE_LICENSE.txt. Game graphics and names are property of their respective rights holders.

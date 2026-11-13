@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetPanel>
+	<Name>PnlSolidNC</Name>
+	<BackLayer href="tex/LWhite.(WidgetLayerTiledTexture).xdb" />
+	<clipContent>false</clipContent>
+	<Placement><X><Align>WIDGET_ALIGN_LOW</Align></X><Y><Align>WIDGET_ALIGN_LOW</Align></Y></Placement>
+</WidgetPanel>

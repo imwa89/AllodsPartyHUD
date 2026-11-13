@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetEditBox>
+    <Name>APHCodeBox</Name>
+    <Cursor1Layer href="tex/LCursor.(WidgetLayerSimpleTexture).xdb"/>
+    <Cursor2Layer href="tex/LCursor.(WidgetLayerSimpleTexture).xdb"/>
+    <CursorWidth>1</CursorWidth>
+    <globalClassName>CBTextGlobal</globalClassName>
+    <selectionClassName>CBTextSelection</selectionClassName>
+    <selectionLayer href="tex/LSelect.(WidgetLayerSimpleTexture).xdb"/>
+    <scrollBar href="ScrBar.(WidgetGlideScrollBar).xdb"/>
+    <Placement><X><Size>560</Size></X><Y><Size>120</Size></Y></Placement>
+</WidgetEditBox>

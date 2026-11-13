@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetTextView>
+	<Name>TM_TxtC</Name>
+	<TransparentInput>true</TransparentInput>
+	<FormatFileRef href="tex/FmtTMC.txt" />
+	<TextStyle><ellipsis>true</ellipsis></TextStyle>
+	<Placement>
+		<X><Align>WIDGET_ALIGN_LOW</Align><Pos>0</Pos><Size>100</Size></X>
+		<Y><Align>WIDGET_ALIGN_LOW</Align><Pos>0</Pos><Size>22</Size></Y>
+	</Placement>
+</WidgetTextView>

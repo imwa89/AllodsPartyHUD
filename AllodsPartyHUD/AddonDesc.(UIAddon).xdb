@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+<Name>AllodsPartyHUD</Name><AutoStart>true</AutoStart>
+<Form href="Widgets/MainForm.(WidgetForm).xdb#xpointer(/WidgetForm)"/>
+<styleSheets><Item href="Styles.(WidgetCss).xdb"/></styleSheets>
+<ScriptFileRefs>
+<Item href="/Mods/SampleCommon/SampleAddonBase.lua"/>
+<Item href="Scripts/LibDnD.lua"/>
+<Item href="Scripts/Main.lua"/>
+</ScriptFileRefs>
+<texturesGroups>
+<Item><groupName>class</groupName><textures href="Widgets/Textures/Classes.xdb#xpointer(/UIRelatedTextures)"/></Item>
+<Item><groupName>mark</groupName><textures href="Widgets/Mark/Textures.(UIRelatedTextures).xdb#xpointer(/UIRelatedTextures)"/></Item>
+</texturesGroups>
+<userAddonInfo><name href="name.txt"/><description href="desc.txt"/><author>Community prototype</author><version>19915</version><apiVersion>-1</apiVersion><useCommonScripts>false</useCommonScripts></userAddonInfo>
+<localizedNameFileRef href="name.txt"/><localizedDescFileRef href="desc.txt"/>
+</UIAddon>

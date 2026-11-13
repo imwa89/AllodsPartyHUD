@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetPanel>
+	<Name>IcoBoss</Name>
+	<BackLayer href="Boss.(WidgetLayerSimpleTexture).xdb" />
+	<TransparentInput>true</TransparentInput>
+	<Placement>
+		<X><Align>WIDGET_ALIGN_LOW</Align><Pos>0</Pos><Size>18</Size></X>
+		<Y><Align>WIDGET_ALIGN_LOW</Align><Pos>0</Pos><Size>18</Size></Y>
+	</Placement>
+</WidgetPanel>

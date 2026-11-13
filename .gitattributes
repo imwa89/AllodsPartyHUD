@@ -1,0 +1,5 @@
+# Preserve the original bytes and mixed encodings of the game addon.
+/AllodsPartyHUD/** -text
+*.md text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+	<Color>0xffffffff</Color>
+	<Grayed>false</Grayed>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+	<flatPlacement>false</flatPlacement>
+	<lazyLoad>false</lazyLoad>
+	<textureItem href="BtnBrown2H.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+	<Layout><LeftX>8</LeftX><MiddleX>240</MiddleX><RightX>8</RightX><TopY>0</TopY><MiddleY>32</MiddleY><BottomY>0</BottomY></Layout>
+	<layoutTypeX>WIDGET_LAYER_TILED_LAYOUT_TYPE_SCALED</layoutTypeX>
+	<layoutTypeY>WIDGET_LAYER_TILED_LAYOUT_TYPE_SCALED</layoutTypeY>
+</WidgetLayerTiledTexture>

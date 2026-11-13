@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetButton>
+	<Name>TM_RowBtn</Name>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<reactionOnPointing>TM_BtnHover</reactionOnPointing>
+	<TextTag>button_label</TextTag>
+	<Placement><X><Size>280</Size></X><Y><Size>22</Size></Y></Placement>
+	<Variants>
+		<Item>
+			<PushedOffset x="0" y="0" />
+			<StateNormal><LayerMain href="tex/LClearN.(WidgetLayerTiledTexture).xdb" /></StateNormal>
+			<StateHighlighted><LayerMain href="tex/LClearH.(WidgetLayerTiledTexture).xdb" /></StateHighlighted>
+			<StatePushed><LayerMain href="tex/LClearH.(WidgetLayerTiledTexture).xdb" /></StatePushed>
+			<Reaction>button_click</Reaction>
+			<ReactionRightClick>executeRightClick</ReactionRightClick>
+			<ReactionOnUp>true</ReactionOnUp>
+		</Item>
+	</Variants>
+</WidgetButton>

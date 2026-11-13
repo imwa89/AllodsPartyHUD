@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetPanel>
+	<Name>Templates</Name>
+	<Children>
+		<Item href="Timer.xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/EdtShare.(WidgetEditLine).xdb#xpointer(/WidgetEditLine)"/>
+		<Item href="T/APHCodeBox.(WidgetEditBox).xdb#xpointer(/WidgetEditBox)"/>
+		<Item href="T/Scr.(WidgetScrollableContainer).xdb#xpointer(/WidgetScrollableContainer)"/>
+		<Item href="T/PnlSolid.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/TM_RowBtn.(WidgetButton).xdb#xpointer(/WidgetButton)"/>
+		<Item href="T/TM_TxtL.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/TM_OverviewName.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/TM_TxtR.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/TM_TxtC.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/TM_Icon.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/TM_HoverRow.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/BtnBrown.(WidgetButton).xdb#xpointer(/WidgetButton)"/>
+		<Item href="T/TM_Chk.(WidgetButton).xdb#xpointer(/WidgetButton)"/>
+		<Item href="T/PnlSolidNC.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/PnlBarGrad.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/PnlBarGradSoft.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoAttack.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoHeal.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoDef.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoDeath.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoMarkDead.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoMarkKill.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoBoss.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoCmp.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoReset.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoOpt.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoClose.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoValor.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="icons/IcoTetra.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/WndBg.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="T/BtnBlood.(WidgetButton).xdb#xpointer(/WidgetButton)"/>
+		<Item href="T/TitleC.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/TxtSecC.(WidgetTextView).xdb#xpointer(/WidgetTextView)"/>
+		<Item href="T/WndBgNC.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+	</Children>
+	<Placement>
+		<X><Align>WIDGET_ALIGN_LOW</Align><Pos>-9000</Pos><Size>1</Size></X>
+		<Y><Align>WIDGET_ALIGN_LOW</Align><Pos>-9000</Pos><Size>1</Size></Y>
+	</Placement>
+	<Visible>false</Visible>
+</WidgetPanel>

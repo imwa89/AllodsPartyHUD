@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetScrollableContainer>
+	<Name>Scr</Name>
+	<border href="ScrBorder.(WidgetPanel).xdb" />
+	<widgetsArrangement>WIDGETS_ARRANGEMENT_T2B</widgetsArrangement>
+	<scrollBar href="ScrBar.(WidgetGlideScrollBar).xdb" />
+	<elementsInterval>2</elementsInterval>
+	<Placement><X><Size>256</Size></X><Y><Size>256</Size></Y></Placement>
+</WidgetScrollableContainer>

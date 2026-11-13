@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetEditLine>
+	<Name>EdtShare</Name>
+	<BackLayer href="tex/LEdt.(WidgetLayerTiledTexture).xdb" />
+	<Cursor1Layer href="tex/LCursor.(WidgetLayerSimpleTexture).xdb" />
+	<Cursor2Layer href="tex/LCursor.(WidgetLayerSimpleTexture).xdb" />
+	<CursorWidth>1</CursorWidth>
+	<TextStyle><Align>ALIGNY_MIDDLE</Align></TextStyle>
+	<globalClassName>CBTextGlobal</globalClassName>
+	<selectionClassName>CBTextSelection</selectionClassName>
+	<selectionLayer href="tex/LSelect.(WidgetLayerSimpleTexture).xdb" />
+	<ReactionEsc>TM_EdtEsc</ReactionEsc>
+	<ReactionEnter>TM_EdtEnter</ReactionEnter>
+	<reactionFocusChanged>TM_EdtFocus</reactionFocusChanged>
+	<Placement><X><Size>120</Size></X><Y><Size>24</Size></Y></Placement>
+</WidgetEditLine>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetButton>
+	<Name>SliderButton</Name>
+	<Placement><X><Size>16</Size></X><Y><Size>40</Size></Y></Placement>
+	<Variants><Item><StateNormal><LayerMain href="../aoui/ScrollBars/Textures/ScrollThumb.(WidgetLayerSimpleTexture).xdb" /></StateNormal></Item></Variants>
+</WidgetButton>

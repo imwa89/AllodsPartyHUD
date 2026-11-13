@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetButton>
+	<Name>IncButton</Name>
+	<Placement><X><Size>16</Size></X><Y><Align>WIDGET_ALIGN_HIGH</Align><Size>16</Size></Y></Placement>
+	<Variants><Item><StateNormal><LayerMain href="../aoui/ScrollBars/Textures/ScrollDown.(WidgetLayerSimpleTexture).xdb" /></StateNormal></Item></Variants>
+</WidgetButton>

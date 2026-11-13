@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>512</width>
+	<height>512</height>
+	<realWidth>512</realWidth>
+	<realHeight>512</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>1178</binaryFileSize>
+	<binaryFileSize2>0</binaryFileSize2>
+	<binaryFile href="WndBg.(UITexture).bin" />
+	<binaryFile2 href="" />
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<atlasPart>true</atlasPart>
+	<pool>UNDEFINED</pool>
+</UITexture>

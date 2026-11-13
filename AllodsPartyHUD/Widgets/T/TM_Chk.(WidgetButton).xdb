@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetButton>
+	<Name>TM_Chk</Name>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Placement><X><Size>20</Size></X><Y><Size>20</Size></Y></Placement>
+	<Variants>
+		<Item>
+			<StateNormal><LayerMain href="../aoui/CheckBoxes/CheckBoxStone.(WidgetLayerSimpleTexture).xdb" /></StateNormal>
+			<StateHighlighted><LayerMain href="../aoui/CheckBoxes/CheckBoxStoneHighlight.(WidgetLayerSimpleTexture).xdb" /></StateHighlighted>
+			<StatePushed><LayerMain href="../aoui/CheckBoxes/CheckBoxStoneHighlight.(WidgetLayerSimpleTexture).xdb" /></StatePushed>
+			<Reaction>button_click</Reaction><ReactionOnUp>true</ReactionOnUp>
+		</Item>
+		<Item>
+			<StateNormal><LayerMain href="../aoui/CheckBoxes/CheckBoxStoneChecked.(WidgetLayerSimpleTexture).xdb" /></StateNormal>
+			<StateHighlighted><LayerMain href="../aoui/CheckBoxes/CheckBoxStoneChecked.(WidgetLayerSimpleTexture).xdb" /></StateHighlighted>
+			<StatePushed><LayerMain href="../aoui/CheckBoxes/CheckBoxStoneChecked.(WidgetLayerSimpleTexture).xdb" /></StatePushed>
+			<Reaction>button_click</Reaction><ReactionOnUp>true</ReactionOnUp>
+		</Item>
+	</Variants>
+</WidgetButton>

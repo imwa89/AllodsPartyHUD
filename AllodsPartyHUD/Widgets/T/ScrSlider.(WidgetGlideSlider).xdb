@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WidgetGlideSlider>
+	<Name>Slider</Name>
+	<Placement><X><Size>16</Size></X><Y><Align>WIDGET_ALIGN_BOTH</Align><Pos>16</Pos><HighPos>16</HighPos></Y></Placement>
+	<discreteStep>96</discreteStep>
+	<sliderButton href="ScrThumb.(WidgetButton).xdb" />
+	<moveArrangement>WIDGETS_ARRANGEMENT_T2B</moveArrangement>
+</WidgetGlideSlider>
